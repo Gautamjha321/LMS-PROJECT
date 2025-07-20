@@ -22,7 +22,7 @@ function Footer() {
           <h2 className='font-semibold text-white mb-5'>Subscribe To Our Newsletter</h2>
           <p className='text-sm text-white/80'>The Latest News, Articles and Resouces, sent to your inbox weekly </p>
           <div className='flex items-center gap-2 pt-2'>
-            <input type="text" placeholder='Enter your email' className='border border-gray-500/30 bg-gray-800 text-gray-500 placeholder-gray-500 outline-none w-64 h-9 rounded px-2 text-sm'  />
+            <input type="text" placeholder='Enter Your Email' className='border border-gray-500/30 bg-gray-800 text-gray-500 placeholder-gray-500 outline-none w-64 h-9 rounded px-2 text-sm'  />
             <button className='bg-blue-600 w-24 h-9 text-white rounded'>Subscribe</button>
           </div>
 
